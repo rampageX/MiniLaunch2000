@@ -1,0 +1,2 @@
+#include "resource.h"
+IDI_APPICON ICON "MiniLaunch2000.ico"
